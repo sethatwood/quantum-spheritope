@@ -3,7 +3,7 @@ email: sethmerrick@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Built by Human+AI collaboration with 💜
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sethatwood.github.io/quantum-spheritope/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sethatwood.github.io/quantum-spheritope" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sethatwood
 
 # Build settings
