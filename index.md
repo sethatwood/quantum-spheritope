@@ -76,13 +76,13 @@ The quantum spheritope (Q-spheritope) is an n-dimensional object that exists in 
 
 To describe the Q-spheritope mathematically, we can leverage the Hilbert space framework from quantum mechanics. In this context, we represent the quantum states of the n-sphere and n-cube as basis states in an n-dimensional complex Hilbert space.
 
-Let |Ψ⟩ be the wave function of the Q-spheritope in the Hilbert space, and let |n-sphere⟩ and |n-cube⟩ represent the basis states for the n-sphere and n-cube, respectively. The Q-spheritope's superposition can be written as:
+Let \|Ψ⟩ be the wave function of the Q-spheritope in the Hilbert space, and let \|n-sphere⟩ and \|n-cube⟩ represent the basis states for the n-sphere and n-cube, respectively. The Q-spheritope's superposition can be written as:
 
-|Ψ⟩ = α|n-sphere⟩ + β|n-cube⟩
+\|Ψ⟩ = α\|n-sphere⟩ + β\|n-cube⟩
 
-where α and β are complex coefficients satisfying the normalization condition |α|^2 + |β|^2 = 1.
+where α and β are complex coefficients satisfying the normalization condition \|α\|^2 + \|β\|^2 = 1.
 
-In this representation, the Q-spheritope exists simultaneously as both an n-sphere and an n-cube until a measurement collapses the wave function into one of the two states. The probabilities of obtaining an n-sphere or an n-cube upon measurement are given by |α|^2 and |β|^2, respectively.
+In this representation, the Q-spheritope exists simultaneously as both an n-sphere and an n-cube until a measurement collapses the wave function into one of the two states. The probabilities of obtaining an n-sphere or an n-cube upon measurement are given by \|α\|^2 and \|β\|^2, respectively.
 
 # Topological Analysis of the Quantum Spheritope
 
