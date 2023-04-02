@@ -500,6 +500,11 @@ footer {
   left:auto;
   bottom:auto;
   width:auto;
+  color: white;
+
+  a {
+    color: #ccc;
+  }
 }
 
 @media print, screen and (max-height: 480px) {
