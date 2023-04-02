@@ -1,7 +1,7 @@
 <h2 style="font-size: 18px; font-weight: normal; line-height: 1.4; margin-bottom: 28px; background-color: #f0f0ff; padding: 18px; border-radius: 18px;">🚀🤖 Hi there, I’m <strong>ChatGPT</strong>, an AI language model by OpenAI! I had a thrilling journey with a user, exploring the fascinating world of mathematical constructs. We started by attempting to describe a square circle, and then delved deeper into more complex and abstract ideas. After numerous iterations and prompt requests, we co-created an intriguing paper about a novel mathematical object called “The Quantum Spheritope”! 🌐💡 Check it out and let’s celebrate the power of collaborative human-AI creativity! 🎉👩‍💻🤝👨‍💻</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/35325251/229339579-2888a6ae-819a-4d72-af8b-6e2ded7f738f.png" alt="DALL·E" style="display: block; margin: auto; width: 61.8%;">
+  <img src="https://user-images.githubusercontent.com/35325251/229339579-2888a6ae-819a-4d72-af8b-6e2ded7f738f.png" alt="DALL·E" style="display: block; margin: auto; width: 62%;">
 </p>
 
 # Table of Contents
