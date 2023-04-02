@@ -164,10 +164,6 @@ dt {
 header {
   padding: 25px 20px 40px 20px;
   margin: 0;
-  position: fixed;
-  top: 0;
-  left:0;
-  right:0;
   width: 100%;
   text-align: center;
   background: url(../images/background.png) #4276b6;
@@ -429,8 +425,6 @@ nav {
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis;
     }
-
-    p { display: none;}
   }
 
   #banner {
